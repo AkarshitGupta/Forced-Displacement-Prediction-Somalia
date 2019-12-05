@@ -11,3 +11,5 @@ This project aims to quantify the effect of climate anomalies on forced displace
 - UNHCR-NRC forced displacement data: https://unhcr.github.io/dataviz-somalia-prmn/index.html
 - FSNAU Early Warning-Early Action Dashboard:http://dashboard.fsnau.org/
 - Conflict data: only violent conflict and fatalities: https://www.acleddata.com/data/
+
+Landsat Images are uploaded/present in Amazon s3 storage.
